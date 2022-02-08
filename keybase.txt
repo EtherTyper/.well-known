@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ethertyper
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ethertyper.github.io
+  * I am ethertyper (https://keybase.io/ethertyper) on keybase.
+  * I have a public key ASCTssikKjm7mXZs_V3gqeqZ-uZOWDzF5Vcg80SOLUAjDQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b110cb8ba990857ac137e2919a29b0e455000fde83f4b911790307f71d975d740a",
+      "host": "keybase.io",
+      "kid": "012093b2c8a42a39bb99766cfd5de0a9ea99fae64e583cc5e55720f3448e2d40230d0a",
+      "uid": "3d60a8422edff4003f76fce424aa0219",
+      "username": "ethertyper"
+    },
+    "merkle_root": {
+      "ctime": 1644217649,
+      "hash": "8f7c7aa936e75884ac3bfbaad24c39829b55a3efeffc4a03d61820e37a768a70e7459a902ac85b946bc375b8b799d7a53e9bd8428a0d947c2806d205ee600385",
+      "hash_meta": "3dc5fb79917fcec74f111289db4ff9a7a03d683b01e8358f3ce9b0025aa47c58",
+      "seqno": 21812790
+    },
+    "service": {
+      "entropy": "FeZEWp7nagEP1Pe0pi8kyupl",
+      "hostname": "ethertyper.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.2"
+  },
+  "ctime": 1644217828,
+  "expire_in": 504576000,
+  "prev": "84965a86e1d943fb47e2f6a60672529d6923775d5c91b1c502babb04728aada6",
+  "seqno": 83,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgk7LIpCo5u5l2bP1d4KnqmfrmTlg8xeVXIPNEji1AIw0Kp3BheWxvYWTESpcCU8QghJZahuHZQ/tH4vamBnJSnWkjd11ckbHFArq7BHKKrabEIPtkBhm6chM7OoaE72VY3lDJDnOQ2qYAF2F0d1rFJULfAgHCo3NpZ8RA6YIXETlutFgU0k2Oc1Fz+y+6McdOfiopS9K3WCKu7gyrgnSo4L3AJcIrhYRRFMBlMjYafKhfpaUQS514KqshC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFlTHq34fLExbDl8oLaU+H1m/iyPvI3rFwUOSNKjrNTHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ethertyper
+
+==================================================================
